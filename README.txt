@@ -13,3 +13,5 @@ previous one is faded away, and fade away before the next one shows up.
 
 I used specific animation in CSS file (style.css) to gain all the effect mentioned above, also some parts needed to be handled by Javascript code in script.js file.
 In the same js file I added Dark/Light mode change logic.
+
+NOTE: If for some reason cards section animation does not work, make sure you reload the page few times.
